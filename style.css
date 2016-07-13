@@ -1,11 +1,13 @@
 body {
+  background-color: #9cf;
   font-family: Helvetica, Arial, sans-serif;
-
 }
 
 #wrapper {
+  background-color: #fff;
   margin: 10px auto;
   max-width: 1000px;
+  padding: 15px;
 }
 
 .button {
